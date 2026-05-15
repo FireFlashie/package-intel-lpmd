@@ -3,11 +3,12 @@
 
 pkgname=intel-lpmd
 pkgver=0.1.0
-pkgrel=3
+pkgrel=4
 pkgdesc="Intel Low Power Mode Daemon"
 arch=(x86_64)
 url="https://github.com/intel/$pkgname"
 license=('GPL-2.0-or-later')
+install=$pkgname.install
 makedepends=(
   git
   gtk-doc
