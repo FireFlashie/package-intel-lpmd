@@ -1,8 +1,9 @@
 pkgbase = intel-lpmd
 	pkgdesc = Intel Low Power Mode Daemon
 	pkgver = 0.1.0
-	pkgrel = 3
+	pkgrel = 4
 	url = https://github.com/intel/intel-lpmd
+	install = intel-lpmd.install
 	arch = x86_64
 	license = GPL-2.0-or-later
 	makedepends = git
