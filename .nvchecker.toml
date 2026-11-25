@@ -1,4 +1,4 @@
 [intel-lpmd]
 source = "git"
-git = "https://github.com/intel/intel-lpmd.git"
+git = "https://github.com/FireFlashie/intel-lpmd.git"
 prefix = "v"
